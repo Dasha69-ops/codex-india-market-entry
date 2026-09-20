@@ -37,7 +37,7 @@ This was my first independent end-to-end data analysis project. I built the full
 
 7-page Power BI report covering brand awareness, perception, purchase drivers, demographics, pricing, packaging, and health/ingredient preferences, benchmarked against six competitor brands.
 
-![Dashboard walkthrough](screenshots/dashboard-walkthrough.gif)
+![Dashboard walkthrough](screenshots/dashboard-walkthrough.mp4)
 
 | Executive Overview                                           | Brand Perception & Awareness                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------ |
