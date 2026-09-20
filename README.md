@@ -37,7 +37,7 @@ This was my first independent end-to-end data analysis project. I built the full
 
 7-page Power BI report covering brand awareness, perception, purchase drivers, demographics, pricing, packaging, and health/ingredient preferences, benchmarked against six competitor brands.
 
-[Download the interactive .pbix dashboard](https://github.com/Dasha69-ops/codex-india-market-entry/compare/v1.0.0...main)
+[Download the interactive .pbix dashboard](https://github.com/Dasha69-ops/codex-india-market-entry/releases/download/v1.0.0/CODEX.2.pbix)
 
 ![Dashboard walkthrough](screenshots/dashboard-walkthrough.gif)
 
